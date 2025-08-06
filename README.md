@@ -20,5 +20,3 @@ This Python script demonstrates basic list operations including:
 6. Sort the list in ascending order.
 7. Find and print the index of the value `30`.
 
-## Output Example
-
